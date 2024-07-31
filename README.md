@@ -1,11 +1,11 @@
-# “It is not the answer that enlightens, but the question. ”, Eugene Ionesco
+# “It is not the answer that enlightens, but the question. ” - Eugene Ionesco
      
 # Ohoi Coders, I'm Md Arafat Islam! 👋
 
 ![Header](https://www.cybersecurity-help.cz/upload/iblock/839/lhfmqxuf7ep2ot0diumwnz4x26js5boy.png)
 
 ## 🚀 About Me
-I'm a passionate developer with expertise in Python, HTML, CSS, JavaScript, Machine Learning, Deep Learning, and the MEARN stack.
+I'm a passionate researcher & devloper with expertise in Python, HTML, CSS, JavaScript, Machine Learning, Deep Learning, and the MEARN stack.
 
 - 🎓 Undergraduate student at NSU, majoring in CSE.
 - 🔭 Currently researching on a deep learning project in the computer vision area, which is monocular depth estimation.
@@ -39,15 +39,11 @@ I'm a passionate developer with expertise in Python, HTML, CSS, JavaScript, Mach
 - [LinkedIn](https://www.linkedin.com/in/md-arafat-islam/)
 - [Email](mailto:ti2431267@gmail.com)
 
-
-## 🌟 Testimonials
-> "Md Arafat is a brilliant developer and researcher, always pushing the boundaries of what's possible with AI." - [Person's Name](https://www.linkedin.com/in/person-profile)
-
 ## 🧩 Fun Fact
 ![Fun Image](https://wallpapers.com/images/featured-full/funny-coding-9ohy28iermnslcfx.jpg)
 
 ## 📖 Hobby 
-I enjoy reading self reding books and observe my surroundings.
+I enjoy reading self Learning books and observe my surroundings. My fav? RICH DAD POOR DAD & PSYCHOLOGY OF MONEY 🤟
 
 ## 🌱 Remember
 Observe it, Do not absorb it!
