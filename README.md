@@ -2,7 +2,7 @@
      
 # Hi there, I'm Md Arafat Islam! 👋
 
-![Header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.anyrgb.com%2Fen-clipart-s3rjg&psig=AOvVaw1WriE_9kKog2KzH2_UpLU1&ust=1722535384668000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjJgdPu0YcDFQAAAAAdAAAAABAE)
+![Header](https://www.anyrgb.com/en-clipart-s3rjg)
 
 ## 🚀 About Me
 I'm a passionate developer with expertise in Python, HTML, CSS, JavaScript, Machine Learning, Deep Learning, and the MEARN stack.
@@ -45,5 +45,9 @@ I'm a passionate developer with expertise in Python, HTML, CSS, JavaScript, Mach
 
 ## 🧩 Fun Fact
 ![Fun Image](https://wallpapers.com/images/featured-full/funny-coding-9ohy28iermnslcfx.jpg)
+
+## 📖 Hobby 
 I enjoy reading self reding books and observe my surroundings.
-Remember! Observe it, Do not absorb it!
+
+## 🌱 Remember
+Observe it, Do not absorb it!
