@@ -1,9 +1,8 @@
-# “It is not the answer that enlightens, but the question. ”
-     ― Eugene Ionesco
+# “It is not the answer that enlightens, but the question. ”, Eugene Ionesco
      
 # Hi there, I'm Md Arafat Islam! 👋
 
-![Header]("https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif")
+![Header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.anyrgb.com%2Fen-clipart-s3rjg&psig=AOvVaw1WriE_9kKog2KzH2_UpLU1&ust=1722535384668000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjJgdPu0YcDFQAAAAAdAAAAABAE)
 
 ## 🚀 About Me
 I'm a passionate developer with expertise in Python, HTML, CSS, JavaScript, Machine Learning, Deep Learning, and the MEARN stack.
@@ -28,8 +27,12 @@ I'm a passionate developer with expertise in Python, HTML, CSS, JavaScript, Mach
 
 ## 📊 GitHub Stats
 
-![Md Arafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thorfast191&show_icons=true&locale=en&layout=compact" alt="thorfast191" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thorfast191&show_icons=true&locale=en" alt="thorfast191" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thorfast191&" alt="thorfast191" /></p>
+
 
 ## 📫 How to reach me
 - [Facebook](https://www.facebook.com/arafat.islam.1804/)
