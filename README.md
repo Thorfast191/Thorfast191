@@ -1,8 +1,8 @@
 # “It is not the answer that enlightens, but the question. ”, Eugene Ionesco
      
-# Hi there, I'm Md Arafat Islam! 👋
+# Ohoi Coders, I'm Md Arafat Islam! 👋
 
-![Header]([https://www.anyrgb.com/en-clipart-s3rjg](https://a0.anyrgb.com/pngimg/1146/1162/gulpjs-foreach-loop-shuriken-study-skills-computer-programming-github-computer-security-ninja-knowledge-avatar.png))
+![Header]([[https://www.anyrgb.com/en-clipart-s3rjg](https://a0.anyrgb.com/pngimg/1146/1162/gulpjs-foreach-loop-shuriken-study-skills-computer-programming-github-computer-security-ninja-knowledge-avatar.png)](https://www.cybersecurity-help.cz/upload/iblock/839/lhfmqxuf7ep2ot0diumwnz4x26js5boy.png))
 
 ## 🚀 About Me
 I'm a passionate developer with expertise in Python, HTML, CSS, JavaScript, Machine Learning, Deep Learning, and the MEARN stack.
