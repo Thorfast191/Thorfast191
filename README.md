@@ -1,26 +1,46 @@
-<h1 align="center">Hi 👋, I'm Md. Arafat Islam</h1>
-<h3 align="center">I am a young passionate Software Engineer from Bangladesh. I am currently doing my undergraduate program on CSE at North South University. at North South University</h3>
+# “It is not the answer that enlightens, but the question. ”
+     ― Eugene Ionesco
+     
+# Hi there, I'm Md Arafat Islam! 👋
 
-<img align="right" width="400" alt="coding"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+![Header]("https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thorfast191&label=Profile%20views&color=0e75b6&style=flat" alt="thorfast191" /> </p>
+## 🚀 About Me
+I'm a passionate developer with expertise in Python, HTML, CSS, JavaScript, Machine Learning, Deep Learning, and the MEARN stack.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md. arafat islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. arafat islam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arafat islam tanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arafat islam tanvir" height="30" width="40" /></a>
-<a href="https://fb.com/arafat islam tanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arafat islam tanvir" height="30" width="40" /></a>
-<a href="https://instagram.com/t.hawk191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.hawk191" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/md. arafat islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="md. arafat islam" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@arafat_islam21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@arafat_islam21" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/GUzRyYfn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GUzRyYfn" height="30" width="40" /></a>
-</p>
+- 🎓 Undergraduate student at NSU, majoring in CSE.
+- 🔭 Currently researching on a deep learning project in the computer vision area, which is monocular depth estimation.
+- 🔭 Also currently researching on a machine learning project called Malady Augur, which is a multiple disease prediction website and also suggest nearby doctors, hospitals, clinics and give information about healthcare and doctors and diseases.
+- 🔭 Also working on various ML & DL projects.
+- 🌱 Learning advanced techniques in deep learning and exploring the latest in AI research.
+- 👯 Open to collaborating on exciting projects and research work.
+- ⚡ Fun fact: I love solving complex problems and am always up for a coding challenge!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🛠 Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thorfast191&show_icons=true&locale=en&layout=compact" alt="thorfast191" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0769AD?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![MEARN Stack](https://img.shields.io/badge/MEARN%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thorfast191&show_icons=true&locale=en" alt="thorfast191" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thorfast191&" alt="thorfast191" /></p>
+![Md Arafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 📫 How to reach me
+- [Facebook](https://www.facebook.com/arafat.islam.1804/)
+- [LinkedIn](https://www.linkedin.com/in/md-arafat-islam/)
+- [Email](mailto:ti2431267@gmail.com)
+
+
+## 🌟 Testimonials
+> "Md Arafat is a brilliant developer and researcher, always pushing the boundaries of what's possible with AI." - [Person's Name](https://www.linkedin.com/in/person-profile)
+
+## 🧩 Fun Fact
+![Fun Image](https://wallpapers.com/images/featured-full/funny-coding-9ohy28iermnslcfx.jpg)
+I enjoy reading self reding books and observe my surroundings.
+Remember! Observe it, Do not absorb it!
