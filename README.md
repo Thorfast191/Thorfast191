@@ -5,7 +5,7 @@
 ![Header](https://www.cybersecurity-help.cz/upload/iblock/839/lhfmqxuf7ep2ot0diumwnz4x26js5boy.png)
 
 ## 🚀 About Me
-I'm a passionate researcher & devloper with expertise in Python, HTML, CSS, JavaScript, Machine Learning, Deep Learning, and the MEARN stack.
+I'm a passionate researcher & developer with expertise in Python, HTML, CSS, JavaScript, Machine Learning, Deep Learning, and the MERN stack.
 
 - 🎓 Undergraduate student at NSU, majoring in CSE.
 - 🔭 Currently researching on a deep learning project in the computer vision area, which is monocular depth estimation.
