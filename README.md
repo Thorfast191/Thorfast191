@@ -32,17 +32,7 @@ I'm a passionate researcher & developer with expertise in Python, HTML, CSS, Jav
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thorfast191&show_icons=true&locale=en" alt="thorfast191" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thorfast191&" alt="thorfast191" /></p>
-
-## 📊 GitHub Stats
-
-<!-- Most Used Languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thorfast191&show_icons=true&locale=en&layout=compact&cache_seconds=1800&token=YOUR_TOKEN_HERE" alt="thorfast191" /></p>
-
-<!-- General GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thorfast191&show_icons=true&locale=en&cache_seconds=1800&token=YOUR_TOKEN_HERE" alt="thorfast191" /></p>
-
-<!-- GitHub Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thorfast191&cache_seconds=1800" alt="thorfast191" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thorfast191&show_icons=true&locale=en&layout=compact&token=YOUR_GITHUB_TOKEN" alt="thorfast191" /></p>
 
 
 
