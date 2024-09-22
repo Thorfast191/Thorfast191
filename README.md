@@ -33,19 +33,6 @@ I'm a passionate researcher & developer with expertise in Python, HTML, CSS, Jav
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thorfast191&" alt="thorfast191" /></p>
 
-## 📊 GitHub Stats
-
-<!-- Most Used Languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thorfast191&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="thorfast191's most used languages" /></p>
-
-<!-- General GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thorfast191&show_icons=true&locale=en&cache_seconds=1800" alt="thorfast191's GitHub stats" /></p>
-
-<!-- GitHub Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thorfast191&cache_seconds=1800" alt="thorfast191's GitHub streak stats" /></p>
-
-<!-- GitHub Contributions (Activity Graph) -->
-<p>&nbsp;<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=thorfast191&bg_color=1F222E&color=F8D866&line=6E40C9&point=FFFFFF&hide_border=true" alt="thorfast191's GitHub contribution graph" /></p>
 
 
 
