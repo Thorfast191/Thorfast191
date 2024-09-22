@@ -33,6 +33,18 @@ I'm a passionate researcher & developer with expertise in Python, HTML, CSS, Jav
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thorfast191&" alt="thorfast191" /></p>
 
+## 📊 GitHub Stats
+
+<!-- Most Used Languages -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thorfast191&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="thorfast191" /></p>
+
+<!-- General GitHub Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thorfast191&show_icons=true&locale=en&cache_seconds=1800" alt="thorfast191" /></p>
+
+<!-- GitHub Streak Stats -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thorfast191&cache_seconds=1800" alt="thorfast191" /></p>
+
+
 
 ## 📫 How to reach me
 - [Facebook](https://www.facebook.com/arafat.islam.1804/)
