@@ -1,52 +1,80 @@
-# “It is not the answer that enlightens, but the question. ” - Eugene Ionesco
-     
-# Ohoi Coders, I'm Md Arafat Islam! 👋
+<h1 align="center">Md Arafat Islam 👋</h1>
 
-![Header](https://www.cybersecurity-help.cz/upload/iblock/839/lhfmqxuf7ep2ot0diumwnz4x26js5boy.png)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Researcher;Building+Scalable+Systems;Exploring+Quantum+Reasoning" />
+</h3>
 
-## 🚀 About Me
-I'm a passionate researcher & developer with expertise in Python, HTML, CSS, JavaScript, Machine Learning, Deep Learning, and the MERN stack.
+<p align="center">
+  <img src="https://img.shields.io/badge/focus-Full%20Stack%20Development-blue" />
+  <img src="https://img.shields.io/badge/research-AI%20%7C%20CV%20%7C%20LLM-purple" />
+  <img src="https://img.shields.io/badge/status-building_projects-success" />
+</p>
 
-- 🎓 Undergraduate student at NSU, majoring in CSE.
-- 🔭 Currently researching on a deep learning project in the computer vision area, which is monocular depth estimation.
-- 🔭 Also currently researching on a machine learning project called Malady Augur, which is a multiple disease prediction website and also suggest nearby doctors, hospitals, clinics and give information about healthcare and doctors and diseases.
-- 🔭 Also working on various ML & DL projects.
-- 🌱 Learning advanced techniques in deep learning and exploring the latest in AI research.
-- 👯 Open to collaborating on exciting projects and research work.
-- ⚡ Fun fact: I love solving complex problems and am always up for a coding challenge!
+---
 
-## 🛠 Skills
+## 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0769AD?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![MEARN Stack](https://img.shields.io/badge/MEARN%20Stack-339933?style=for-the-badge&logo=node.js&logoColor=white)
+I’m a **Full Stack Developer and AI Research-Oriented Engineer** focused on building **scalable web systems and intelligent models**.
 
-## 📊 GitHub Stats
+My work sits at the intersection of:
+- **software engineering (systems, APIs, architecture)**
+- **AI research (computer vision, deep learning, LLMs)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thorfast191&show_icons=true&locale=en&layout=compact" alt="thorfast191" /></p>
+Currently evolving toward **production-grade engineering**, where systems are designed not just to work — but to scale, adapt, and endure.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thorfast191&show_icons=true&locale=en" alt="thorfast191" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thorfast191&" alt="thorfast191" /></p>
+## 🚀 Development Focus
 
+- 🌐 Full Stack Web Development (React, Node.js, PostgreSQL)
+- ⚙️ Backend Architecture & API Engineering
+- 🧱 Modular CMS & Scalable System Design
+- 🔐 Authentication & Secure Systems
 
+---
 
+## 🧠 Research Focus
 
+- 👁 Computer Vision (Depth Estimation)
+- 🧠 Deep Learning Systems
+- 🤖 Large Language Models (LLMs)
+- ⚛️ Quantum-Inspired Reasoning Models
 
-## 📫 How to reach me
-- [Facebook](https://www.facebook.com/arafat.islam.1804/)
-- [LinkedIn](https://www.linkedin.com/in/md-arafat-islam/)
-- [Email](mailto:ti2431267@gmail.com)
+---
 
-## 🧩 Fun Fact
-![Fun Image](https://wallpapers.com/images/featured-full/funny-coding-9ohy28iermnslcfx.jpg)
+## ⚡ Tech Stack
 
-## 📖 Hobby 
-I enjoy reading self Learning books and observe my surroundings. My fav? RICH DAD POOR DAD & PSYCHOLOGY OF MONEY 🤟
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,prisma,python,tailwind" />
+</p>
 
-## 🌱 Remember
-Observe it, Do not absorb it!
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thorfast191&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thorfast191&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-arafat-islam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:ti2431267@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 🧭 Mindset
+
+> **Observe it. Do not absorb it.**
