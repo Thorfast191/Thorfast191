@@ -12,40 +12,41 @@
 
 ## 🧠 About
 
-```diff
-+ Full Stack Developer + AI Research-Oriented Engineer
+**Full Stack Developer & AI Research-Oriented Engineer**
 
-I’m a **Full Stack Developer and AI Research-Oriented Engineer** focused on building **scalable web systems and intelligent models**.
+I build **scalable web systems** and explore **intelligent models**, combining backend engineering with applied AI.
 
-My work sits at the intersection of:
-- **software engineering (systems, APIs, architecture)**
-- **AI research (computer vision, deep learning, LLMs)**
-
-Currently evolving toward **production-grade engineering**, where systems are designed not just to work — but to scale, adapt, and endure.
+Focused on:
+- Clean, modular system architecture
+- Production-ready backend systems
+- Bridging software engineering with AI research
 
 ---
 
 ## 🚀 Development Focus
 
-- 🌐 Full Stack Web Development (React, Node.js, PostgreSQL)
-- ⚙️ Backend Architecture & API Engineering
-- 🧱 Modular CMS & Scalable System Design
-- 🔐 Authentication & Secure Systems
+<p>
+  <img src="https://img.shields.io/badge/Full%20Stack-Web%20Development-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-API%20%26%20System%20Design-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20Prisma-4EA94B?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🧠 Research Focus
 
-- 👁 Computer Vision (Depth Estimation)
-- 🧠 Deep Learning Systems
-- 🤖 Large Language Models (LLMs)
-- ⚛️ Quantum-Inspired Reasoning Models
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Depth%20Estimation-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Systems-EA4335?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-Language%20Models-34A853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quantum-Reasoning%20Models-00C2FF?style=for-the-badge"/>
+</p>
 
 ---
 
 ## ⚡ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,prisma,python,tailwind" />
 </p>
 
@@ -54,11 +55,19 @@ Currently evolving toward **production-grade engineering**, where systems are de
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thorfast191&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thorfast191&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thorfast191&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=thorfast191&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧬 Activity Graph (Retro Style)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thorfast191&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -79,3 +88,9 @@ Currently evolving toward **production-grade engineering**, where systems are de
 ## 🧭 Mindset
 
 > **Observe it. Do not absorb it.**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+</p>
