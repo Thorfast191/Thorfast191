@@ -1,18 +1,19 @@
-<h1 align="center">Md Arafat Islam 👋</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Researcher;Building+Scalable+Systems;Exploring+Quantum+Reasoning" />
-</h3>
+<h1 align="center">⚡ Md Arafat Islam ⚡</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/focus-Full%20Stack%20Development-blue" />
-  <img src="https://img.shields.io/badge/research-AI%20%7C%20CV%20%7C%20LLM-purple" />
-  <img src="https://img.shields.io/badge/status-building_projects-success" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Computer+Vision+Engineer;Building+Scalable+Systems;Exploring+LLMs+%26+Quantum+Reasoning" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About
+
+```diff
++ Full Stack Developer + AI Research-Oriented Engineer
 
 I’m a **Full Stack Developer and AI Research-Oriented Engineer** focused on building **scalable web systems and intelligent models**.
 
